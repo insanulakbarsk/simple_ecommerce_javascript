@@ -1,1 +1,1 @@
-# simple_ecommerce_javascript
+# Ecommerce Sederhana Dengan HTML, CSS, dan JavaScript
